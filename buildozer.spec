@@ -16,13 +16,12 @@ fullscreen = 0
 android.bootstrap = sdl2
 android.api = 30
 android.minapi = 21
-android.ndk = 23b
+# android.ndk = 23b  <--- BUNU SİL veya YORUM SATIRI YAP
 android.ndk_api = 21
 android.sdk = 30
 android.archs = arm64-v8a, armeabi-v7a
 android.accept_sdk_license = True
 android.allow_backup = True
-android.gradle_dependencies =
 
 [buildozer]
 log_level = 2
